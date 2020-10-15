@@ -1,0 +1,15 @@
+{
+  "name": "bird-o-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DavidThorpe71/bird-o-clock.git",
+  "author": "David Thorpe <davidthorpe878@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "nodemon": "^2.0.5"
+  }
+}
