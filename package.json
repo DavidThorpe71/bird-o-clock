@@ -9,6 +9,7 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
+    "aws-sdk": "^2.772.0",
     "axios": "^0.20.0",
     "nodemon": "^2.0.5"
   }
